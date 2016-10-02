@@ -46,6 +46,8 @@ group :development do
 end
 gem 'rails_12factor'
 gem 'pg'
-ruby '2.3.0'
+
 gem 'ckeditor'
+gem 'bundler'
 gem 'puma'
+ruby '2.3.0'

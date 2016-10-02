@@ -161,6 +161,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  bundler
   byebug
   ckeditor
   coffee-rails (~> 4.1.0)
