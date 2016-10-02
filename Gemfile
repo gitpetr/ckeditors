@@ -47,3 +47,4 @@ end
 gem 'rails_12factor'
 gem 'pg'
 ruby '2.3.0'
+gem 'ckeditor'
